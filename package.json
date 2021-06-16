@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-web-worker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Check if the runtime is a web worker.",
   "license": "Apache-2.0",
   "author": {
