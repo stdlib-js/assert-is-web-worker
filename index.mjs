@@ -1,0 +1,4 @@
+// Copyright (c) 2022 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
+/// <reference types="./index.d.ts" />
+import t from"https://cdn.jsdelivr.net/gh/stdlib-js/utils-global@esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-node@esm/index.mjs";import r from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-plain-object@esm/index.mjs";var o;o=new Function("try {return this === self;} catch ( err ) {return false;}")();var s=e,i=r,n=o,a=t();var c=function(){return!1===s&&"object"==typeof WorkerGlobalScope&&i(WorkerNavigator)&&navigator instanceof WorkerNavigator&&i(WorkerLocation)&&location instanceof WorkerLocation&&"object"==typeof self&&self===a&&!0===n&&"function"==typeof importScripts}();export{c as default};
+//# sourceMappingURL=index.mjs.map
