@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-web-worker"
-click B href "https://github.com/stdlib-js/assert-is-web-worker/tree/main"
-click C href "https://github.com/stdlib-js/assert-is-web-worker/tree/production"
-click D href "https://github.com/stdlib-js/assert-is-web-worker/tree/esm"
-click E href "https://github.com/stdlib-js/assert-is-web-worker/tree/deno"
-click F href "https://github.com/stdlib-js/assert-is-web-worker/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-web-worker"
+%% click B href "https://github.com/stdlib-js/assert-is-web-worker/tree/main"
+%% click C href "https://github.com/stdlib-js/assert-is-web-worker/tree/production"
+%% click D href "https://github.com/stdlib-js/assert-is-web-worker/tree/esm"
+%% click E href "https://github.com/stdlib-js/assert-is-web-worker/tree/deno"
+%% click F href "https://github.com/stdlib-js/assert-is-web-worker/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-web-worker
