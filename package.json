@@ -37,7 +37,8 @@
   "dependencies": {
     "@stdlib/assert-is-node": "^0.2.0",
     "@stdlib/assert-is-plain-object": "^0.2.0",
-    "@stdlib/utils-global": "^0.2.0"
+    "@stdlib/utils-global": "^0.2.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.0"
   },
   "devDependencies": {
     "proxyquire": "^2.0.0",
