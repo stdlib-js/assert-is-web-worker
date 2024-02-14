@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-web-worker",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Check if the runtime is a web worker.",
   "license": "Apache-2.0",
   "author": {
@@ -35,9 +35,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-node": "^0.1.1",
-    "@stdlib/assert-is-plain-object": "^0.1.1",
-    "@stdlib/utils-global": "^0.1.1"
+    "@stdlib/assert-is-node": "^0.2.0",
+    "@stdlib/assert-is-plain-object": "^0.2.0",
+    "@stdlib/utils-global": "^0.2.0"
   },
   "devDependencies": {
     "proxyquire": "^2.0.0",
