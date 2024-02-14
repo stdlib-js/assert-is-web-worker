@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import IS_WEB_WORKER from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-web-worker@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-web-worker/tags). For example,
+
+```javascript
 import IS_WEB_WORKER from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-web-worker@v0.2.0-deno/mod.js';
 ```
 
@@ -75,7 +80,7 @@ var bool = IS_WEB_WORKER;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import IS_WEB_WORKER from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-web-worker@v0.2.0-deno/mod.js';
+import IS_WEB_WORKER from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-web-worker@deno/mod.js';
 
 console.log( IS_WEB_WORKER );
 // => <boolean>
