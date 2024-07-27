@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import IS_WEB_WORKER from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-web-worker@deno/mod.js';
+import IS_WEB_WORKER from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-web-worker@v0.2.2-deno/mod.js';
 ```
 
 #### IS_WEB_WORKER
@@ -75,7 +75,7 @@ var bool = IS_WEB_WORKER;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import IS_WEB_WORKER from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-web-worker@deno/mod.js';
+import IS_WEB_WORKER from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-web-worker@v0.2.2-deno/mod.js';
 
 console.log( IS_WEB_WORKER );
 // => <boolean>
