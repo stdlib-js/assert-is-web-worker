@@ -37,7 +37,8 @@
   "dependencies": {
     "@stdlib/assert-is-node": "^0.2.2",
     "@stdlib/assert-is-plain-object": "^0.2.2",
-    "@stdlib/utils-global": "^0.2.2"
+    "@stdlib/utils-global": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/utils-define-property": "^0.2.5",
